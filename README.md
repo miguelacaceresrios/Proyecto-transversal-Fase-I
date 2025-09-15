@@ -43,21 +43,7 @@ Gestiona el **inventario centralizado** asegurando una única instancia en todo 
 ---
 
 ## 📂 Estructura del Proyecto
-inventario-app
-│── src/
-│ ├── app/
-│ │ └── Main.java
-│ ├── com/example/inventario/abstractfactory/
-│ ├── com/example/inventario/builder/
-│ ├── com/example/inventario/factorymethod/
-│ ├── com/example/inventario/prototype/
-│ ├── com/example/inventario/singleton/
-│ └── com/example/inventario/model/
-│── bin/ # Clases compiladas
-│── docs/ # Javadoc generado
-│── README.md
-│── generar-javadoc.bat # Script para generar documentación
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8g2X7FBF/Captura-de-pantalla-2025-09-14-212804.png" alt="Captura-de-pantalla-2025-09-14-212804" border="0"></a>
 ---
 
 ## ⚙️ Requisitos
